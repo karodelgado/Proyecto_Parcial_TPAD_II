@@ -4,5 +4,7 @@
 echo "saludo"
 ```
 ```
-
+Destino de viaje favorito: España
+Ultimo lugar que visito: Nicaragua
+Lugar que le gustaria visitar: Disney
 
